@@ -41,4 +41,4 @@ timestamp, symbol, expiry_date, strike_price, option_type, open, high, low, clos
 For full dataset access, pricing details, or custom date/symbol extractions, reach out via:
 
 * 📧 **Email:** `yj712432@gmail.com`
-* 💬 **Telegram:** user- '@Djjain21'
+* 💬 **Telegram:** user- '@Yash211'
